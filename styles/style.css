@@ -14,3 +14,8 @@
     min-height: 5vh;
     text-align: center;
 }
+
+.h3 {
+    min-height: 15vh;
+    text-align: right;
+}
